@@ -650,7 +650,7 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u304B\u3081@\u732B\u306E\u984D\u722A\u306E\u57A2\u3092\u714E\u3058\u3066\u98F2\u3080.js",
+      "name" : "\u3042\u304B\u3081@\u30BC\u30ED\u3068\u4FFA.js",
       "screen_name" : "akameco",
       "indices" : [ 0, 8 ],
       "id_str" : "632825490",
@@ -683,7 +683,7 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u304B\u3081@\u732B\u306E\u984D\u722A\u306E\u57A2\u3092\u714E\u3058\u3066\u98F2\u3080.js",
+      "name" : "\u3042\u304B\u3081@\u30BC\u30ED\u3068\u4FFA.js",
       "screen_name" : "akameco",
       "indices" : [ 0, 8 ],
       "id_str" : "632825490",
@@ -1350,7 +1350,7 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83E\uDD54\uD83E\uDD66",
+      "name" : "\uD83E\uDD54\uD83E\uDD66\uD83D\uDC96\uD83D\uDC99",
       "screen_name" : "battlegirl_mmd",
       "indices" : [ 0, 15 ],
       "id_str" : "727878240304422912",
@@ -1383,7 +1383,7 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83E\uDD54\uD83E\uDD66",
+      "name" : "\uD83E\uDD54\uD83E\uDD66\uD83D\uDC96\uD83D\uDC99",
       "screen_name" : "battlegirl_mmd",
       "indices" : [ 0, 15 ],
       "id_str" : "727878240304422912",
@@ -1737,21 +1737,10 @@ Grailbird.data.tweets_2018_03 =
       "indices" : [ 3, 9 ],
       "id_str" : "341374118",
       "id" : 341374118
-    }, {
-      "name" : "\u306E\u3089",
-      "screen_name" : "noraworld_jp",
-      "indices" : [ 45, 58 ],
-      "id_str" : "744114337",
-      "id" : 744114337
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 59, 82 ],
-      "url" : "https:\/\/t.co\/U4IYwRJSzO",
-      "expanded_url" : "http:\/\/bit.ly\/2HTSHoV",
-      "display_url" : "bit.ly\/2HTSHoV"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "969496089576456192",
@@ -1759,13 +1748,7 @@ Grailbird.data.tweets_2018_03 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "\u306E\u3089",
-        "screen_name" : "noraworld_jp",
-        "indices" : [ 34, 47 ],
-        "id_str" : "744114337",
-        "id" : 744114337
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {

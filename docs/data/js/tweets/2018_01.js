@@ -779,7 +779,7 @@ Grailbird.data.tweets_2018_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30B5\u30FC\u30AF\u30EB\u300CBlowing\u300D@M3 \u30B5-01b",
+      "name" : "\u30B5\u30FC\u30AF\u30EB\u300CBlowing\u300D@C95\uFF08\u65E5\uFF09\u897F\u3082-33a",
       "screen_name" : "circleblowing",
       "indices" : [ 3, 17 ],
       "id_str" : "934231860514668544",
@@ -817,7 +817,7 @@ Grailbird.data.tweets_2018_01 =
     "id" : 935823540854472706,
     "created_at" : "2017-11-29 10:51:33 +0000",
     "user" : {
-      "name" : "\u30B5\u30FC\u30AF\u30EB\u300CBlowing\u300D@M3 \u30B5-01b",
+      "name" : "\u30B5\u30FC\u30AF\u30EB\u300CBlowing\u300D@C95\uFF08\u65E5\uFF09\u897F\u3082-33a",
       "screen_name" : "circleblowing",
       "protected" : false,
       "id_str" : "934231860514668544",
@@ -1032,10 +1032,27 @@ Grailbird.data.tweets_2018_01 =
       "indices" : [ 3, 12 ],
       "id_str" : "2279180352",
       "id" : 2279180352
+    }, {
+      "name" : "\u306E\u3089",
+      "screen_name" : "noraworld_jp",
+      "indices" : [ 59, 72 ],
+      "id_str" : "1100745835992702976",
+      "id" : 1100745835992702976
+    }, {
+      "name" : "Qiita (\u30AD\u30FC\u30BF) \u516C\u5F0F",
+      "screen_name" : "Qiita",
+      "indices" : [ 76, 82 ],
+      "id_str" : "341374118",
+      "id" : 341374118
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 83, 106 ],
+      "url" : "https:\/\/t.co\/4vB31o8ckY",
+      "expanded_url" : "https:\/\/qiita.com\/noraworld\/items\/2fe6be489e1d93c748b8",
+      "display_url" : "qiita.com\/noraworld\/item\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "947640002376187904",
@@ -1044,6 +1061,12 @@ Grailbird.data.tweets_2018_01 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
+        "name" : "\u306E\u3089",
+        "screen_name" : "noraworld_jp",
+        "indices" : [ 45, 58 ],
+        "id_str" : "1100745835992702976",
+        "id" : 1100745835992702976
+      }, {
         "name" : "Qiita (\u30AD\u30FC\u30BF) \u516C\u5F0F",
         "screen_name" : "Qiita",
         "indices" : [ 62, 68 ],
@@ -1224,7 +1247,7 @@ Grailbird.data.tweets_2018_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u3055\u304F\u3089",
+      "name" : "\u3042\u3055\u304F\u3089\uD83C\uDF43\uD83E\uDD5C",
       "screen_name" : "asakura_dev",
       "indices" : [ 3, 15 ],
       "id_str" : "1389046746",
@@ -1313,7 +1336,7 @@ Grailbird.data.tweets_2018_01 =
     "id" : 947410019300950017,
     "created_at" : "2017-12-31 10:12:05 +0000",
     "user" : {
-      "name" : "\u3042\u3055\u304F\u3089",
+      "name" : "\u3042\u3055\u304F\u3089\uD83C\uDF43\uD83E\uDD5C",
       "screen_name" : "asakura_dev",
       "protected" : false,
       "id_str" : "1389046746",
@@ -1410,7 +1433,7 @@ Grailbird.data.tweets_2018_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83E\uDD54\uD83E\uDD66",
+      "name" : "\uD83E\uDD54\uD83E\uDD66\uD83D\uDC96\uD83D\uDC99",
       "screen_name" : "battlegirl_mmd",
       "indices" : [ 0, 15 ],
       "id_str" : "727878240304422912",
