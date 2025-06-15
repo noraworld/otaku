@@ -61,8 +61,8 @@ Grailbird.data.tweets_2017_10 =
       "name" : "\u306E\u3089",
       "screen_name" : "noraworld_jp",
       "indices" : [ 55, 68 ],
-      "id_str" : "744114337",
-      "id" : 744114337
+      "id_str" : "1100745835992702976",
+      "id" : 1100745835992702976
     }, {
       "name" : "Qiita (\u30AD\u30FC\u30BF) \u516C\u5F0F",
       "screen_name" : "Qiita",
@@ -89,8 +89,8 @@ Grailbird.data.tweets_2017_10 =
         "name" : "\u306E\u3089",
         "screen_name" : "noraworld_jp",
         "indices" : [ 44, 57 ],
-        "id_str" : "744114337",
-        "id" : 744114337
+        "id_str" : "1100745835992702976",
+        "id" : 1100745835992702976
       }, {
         "name" : "Qiita (\u30AD\u30FC\u30BF) \u516C\u5F0F",
         "screen_name" : "Qiita",

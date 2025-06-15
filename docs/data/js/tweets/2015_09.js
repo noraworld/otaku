@@ -821,7 +821,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/erased5415869.com\" rel=\"nofollow\"\u003Eerased5415869\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "noppe(\u4FFA\u30B3\u30F3\/\u6280\u8853\u66F8\u5178)",
+      "name" : "\uD835\uDE63\uD835\uDE64\uD835\uDE65\uD835\uDE65\uD835\uDE5A\uD83E\uDD8A",
       "screen_name" : "noppefoxwolf",
       "indices" : [ 3, 16 ],
       "id_str" : "18020556",
@@ -910,7 +910,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 648516307017601025,
     "created_at" : "2015-09-28 15:15:11 +0000",
     "user" : {
-      "name" : "noppe(\u4FFA\u30B3\u30F3\/\u6280\u8853\u66F8\u5178)",
+      "name" : "\uD835\uDE63\uD835\uDE64\uD835\uDE65\uD835\uDE65\uD835\uDE5A\uD83E\uDD8A",
       "screen_name" : "noppefoxwolf",
       "protected" : false,
       "id_str" : "18020556",
@@ -5040,7 +5040,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/erased5415869.com\" rel=\"nofollow\"\u003Eerased5415869\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "noppe(\u4FFA\u30B3\u30F3\/\u6280\u8853\u66F8\u5178)",
+      "name" : "\uD835\uDE63\uD835\uDE64\uD835\uDE65\uD835\uDE65\uD835\uDE5A\uD83E\uDD8A",
       "screen_name" : "noppefoxwolf",
       "indices" : [ 3, 16 ],
       "id_str" : "18020556",
@@ -5067,7 +5067,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 645112453185957888,
     "created_at" : "2015-09-19 05:49:29 +0000",
     "user" : {
-      "name" : "noppe(\u4FFA\u30B3\u30F3\/\u6280\u8853\u66F8\u5178)",
+      "name" : "\uD835\uDE63\uD835\uDE64\uD835\uDE65\uD835\uDE65\uD835\uDE5A\uD83E\uDD8A",
       "screen_name" : "noppefoxwolf",
       "protected" : false,
       "id_str" : "18020556",
@@ -8810,7 +8810,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "DQ_PR",
       "protected" : false,
       "id_str" : "169505858",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945480658087944192\/vu42yR9v_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1078221826780581888\/9aPDudp1_normal.jpg",
       "id" : 169505858,
       "verified" : true
     }
@@ -13061,7 +13061,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/erased5415869.com\" rel=\"nofollow\"\u003Eerased5415869\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "noppe(\u4FFA\u30B3\u30F3\/\u6280\u8853\u66F8\u5178)",
+      "name" : "\uD835\uDE63\uD835\uDE64\uD835\uDE65\uD835\uDE65\uD835\uDE5A\uD83E\uDD8A",
       "screen_name" : "noppefoxwolf",
       "indices" : [ 3, 16 ],
       "id_str" : "18020556",
@@ -13088,7 +13088,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 638920936859668480,
     "created_at" : "2015-09-02 03:46:36 +0000",
     "user" : {
-      "name" : "noppe(\u4FFA\u30B3\u30F3\/\u6280\u8853\u66F8\u5178)",
+      "name" : "\uD835\uDE63\uD835\uDE64\uD835\uDE65\uD835\uDE65\uD835\uDE5A\uD83E\uDD8A",
       "screen_name" : "noppefoxwolf",
       "protected" : false,
       "id_str" : "18020556",
@@ -13566,7 +13566,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "hajimesyacho",
       "protected" : false,
       "id_str" : "552700119",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1033053877451415552\/XHPb6osw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1089151322299854848\/C666AXd6_normal.jpg",
       "id" : 552700119,
       "verified" : true
     }

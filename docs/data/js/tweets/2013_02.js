@@ -230,7 +230,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3198,7 +3198,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3247,7 +3247,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -12914,7 +12914,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -12968,7 +12968,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14090,7 +14090,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14117,7 +14117,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -14845,7 +14845,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -17551,7 +17551,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -19860,7 +19860,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -20782,7 +20782,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

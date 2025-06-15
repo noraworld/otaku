@@ -148,7 +148,7 @@ Grailbird.data.tweets_2018_06 =
   "id" : 1007818284698177537,
   "in_reply_to_status_id" : 1007623900316831744,
   "created_at" : "2018-06-16 02:52:58 +0000",
-  "in_reply_to_screen_name" : "noraworld_jp",
+  "in_reply_to_screen_name" : "dBfACf3ktAcJCB4",
   "in_reply_to_user_id_str" : "744114337",
   "user" : {
     "name" : "dBfACf3ktAcJCB41",

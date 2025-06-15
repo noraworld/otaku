@@ -287,7 +287,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3046\u3049\u308B",
+      "name" : "\u30A6\u30A9\u30EB@\u30BD\u30FC\u30F3\u304F\u3093\u5929\u4F7F",
       "screen_name" : "murakumo13tsuki",
       "indices" : [ 0, 16 ],
       "id_str" : "2388320142",
@@ -2508,7 +2508,7 @@ Grailbird.data.tweets_2014_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5248,7 +5248,7 @@ Grailbird.data.tweets_2014_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8148,28 +8148,6 @@ Grailbird.data.tweets_2014_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "492597757547266048",
-  "text" : "\u304D\u3064\u306D\u304B\u308F\u3044\u3044\uFF01\uFF01\uFF01(906\u56DE\u76EE)",
-  "id" : 492597757547266048,
-  "created_at" : "2014-07-25 09:10:32 +0000",
-  "user" : {
-    "name" : "dBfACf3ktAcJCB41",
-    "screen_name" : "dBfACf3ktAcJCB4",
-    "protected" : true,
-    "id_str" : "744114337",
-    "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
-    "id" : 744114337,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EiOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "492597758054785024",
   "text" : "\u304D\u3064\u306D\u304B\u308F\u3044\u3044\uFF01\uFF01\uFF01(907\u56DE\u76EE)",
   "id" : 492597758054785024,
@@ -8195,6 +8173,28 @@ Grailbird.data.tweets_2014_07 =
   "id_str" : "492597758520356864",
   "text" : "\u304D\u3064\u306D\u304B\u308F\u3044\u3044\uFF01\uFF01\uFF01(908\u56DE\u76EE)",
   "id" : 492597758520356864,
+  "created_at" : "2014-07-25 09:10:32 +0000",
+  "user" : {
+    "name" : "dBfACf3ktAcJCB41",
+    "screen_name" : "dBfACf3ktAcJCB4",
+    "protected" : true,
+    "id_str" : "744114337",
+    "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+    "id" : 744114337,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EiOS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "492597757547266048",
+  "text" : "\u304D\u3064\u306D\u304B\u308F\u3044\u3044\uFF01\uFF01\uFF01(906\u56DE\u76EE)",
+  "id" : 492597757547266048,
   "created_at" : "2014-07-25 09:10:32 +0000",
   "user" : {
     "name" : "dBfACf3ktAcJCB41",
@@ -13016,7 +13016,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/erased1039898.com\" rel=\"nofollow\"\u003Eerased1039898\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5E78(\u307E\u3060\u539F\u7A3F\u4E2D)\/9\u6708\u543E\u304C\u624B\u30B141b",
+      "name" : "\u5E78\/\u30B9\u30D1\u30B3\u30DF",
       "screen_name" : "sayu_nira",
       "indices" : [ 0, 10 ],
       "id_str" : "1808788968",
@@ -13028,7 +13028,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "1545306666",
       "id" : 1545306666
     }, {
-      "name" : "\u7D75\u3092\u63CF\u304F\u3070\u3093\u3071\u3044\u3042",
+      "name" : "\u81EA\u5206\u306E\u9811\u5F35\u308A\u3092\u5831\u544A\u3059\u308B\u3070\u3093\u3071\u3044\u3042",
       "screen_name" : "bloodvam",
       "indices" : [ 31, 40 ],
       "id_str" : "2852353963",
@@ -13106,7 +13106,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/erased1039898.com\" rel=\"nofollow\"\u003Eerased1039898\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u304B\u3093\u306A\u3055\u307E\uD83D\uDCAB",
+      "name" : "\u304B\u3093\u306A\u3055\u307E\uD83D\uDC08",
       "screen_name" : "umeumepanda",
       "indices" : [ 0, 12 ],
       "id_str" : "3318625784",
@@ -16019,7 +16019,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/erased1039898.com\" rel=\"nofollow\"\u003Eerased1039898\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u266C\u24E8\u24E4\u24E1\u24D8\u24D2\u24D0\u266C\uFF20\u3042\u30FC\u304F\u3059",
+      "name" : "\uD83C\uDFB5\u24E8\u24E4\u24E1\u24D8\u24D2\u24D0\uD83C\uDFB5",
       "screen_name" : "mz0323",
       "indices" : [ 0, 7 ],
       "id_str" : "1694432323",
@@ -20301,7 +20301,7 @@ Grailbird.data.tweets_2014_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -21508,6 +21508,12 @@ Grailbird.data.tweets_2014_07 =
       "indices" : [ 6, 14 ],
       "id_str" : "738086540044292101",
       "id" : 738086540044292101
+    }, {
+      "name" : "Goorway Snami",
+      "screen_name" : "GSnami",
+      "indices" : [ 15, 22 ],
+      "id_str" : "1037704270932533253",
+      "id" : 1037704270932533253
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -22872,7 +22878,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u9053\u660E\u5BFA\u548C\u7FA9\u2640\uFF71\uFF9D\uFF83\uFF9E\uFF68",
+      "name" : "\u548C\u7FA9\u2640",
       "screen_name" : "11Onoff",
       "indices" : [ 0, 8 ],
       "id_str" : "1513465782",
@@ -23192,7 +23198,7 @@ Grailbird.data.tweets_2014_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -23625,11 +23631,11 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/itunes.apple.com\/us\/app\/theworld-for-ios\/id548994749?mt=8&uo=4\" rel=\"nofollow\"\u003ETheWorld for iOS_\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3046\u3057\u304A",
+      "name" : "\u9280\u3080\u304E",
       "screen_name" : "snowdrop_xx",
       "indices" : [ 0, 12 ],
-      "id_str" : "1914598021",
-      "id" : 1914598021
+      "id_str" : "1047509225616764928",
+      "id" : 1047509225616764928
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -23643,7 +23649,7 @@ Grailbird.data.tweets_2014_07 =
   "id" : 489671134137180161,
   "in_reply_to_status_id" : 489609296158527490,
   "created_at" : "2014-07-17 07:21:10 +0000",
-  "in_reply_to_screen_name" : "snowdrop_xx",
+  "in_reply_to_screen_name" : "snoodroo",
   "in_reply_to_user_id_str" : "1914598021",
   "user" : {
     "name" : "dBfACf3ktAcJCB41",
@@ -24686,11 +24692,11 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3046\u3057\u304A",
+      "name" : "\u9280\u3080\u304E",
       "screen_name" : "snowdrop_xx",
       "indices" : [ 0, 12 ],
-      "id_str" : "1914598021",
-      "id" : 1914598021
+      "id_str" : "1047509225616764928",
+      "id" : 1047509225616764928
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -24704,7 +24710,7 @@ Grailbird.data.tweets_2014_07 =
   "id" : 488859078274211840,
   "in_reply_to_status_id" : 488844946871316481,
   "created_at" : "2014-07-15 01:34:21 +0000",
-  "in_reply_to_screen_name" : "snowdrop_xx",
+  "in_reply_to_screen_name" : "snoodroo",
   "in_reply_to_user_id_str" : "1914598021",
   "user" : {
     "name" : "dBfACf3ktAcJCB41",
@@ -26027,7 +26033,7 @@ Grailbird.data.tweets_2014_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -26075,11 +26081,11 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "2290825417",
       "id" : 2290825417
     }, {
-      "name" : "\u3046\u3057\u304A",
+      "name" : "\u9280\u3080\u304E",
       "screen_name" : "snowdrop_xx",
       "indices" : [ 34, 46 ],
-      "id_str" : "1914598021",
-      "id" : 1914598021
+      "id_str" : "1047509225616764928",
+      "id" : 1047509225616764928
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -26419,7 +26425,7 @@ Grailbird.data.tweets_2014_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -26581,7 +26587,7 @@ Grailbird.data.tweets_2014_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -27417,7 +27423,7 @@ Grailbird.data.tweets_2014_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -27466,7 +27472,7 @@ Grailbird.data.tweets_2014_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -27978,7 +27984,7 @@ Grailbird.data.tweets_2014_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.ameba.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/ameblo.jp\/\" rel=\"nofollow\"\u003EAmeba_Blog\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

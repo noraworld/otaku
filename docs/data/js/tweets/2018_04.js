@@ -163,7 +163,7 @@ Grailbird.data.tweets_2018_04 =
   "id" : 986594739293007872,
   "in_reply_to_status_id" : 986469906953650176,
   "created_at" : "2018-04-18 13:18:10 +0000",
-  "in_reply_to_screen_name" : "noraworld_jp",
+  "in_reply_to_screen_name" : "dBfACf3ktAcJCB4",
   "in_reply_to_user_id_str" : "744114337",
   "user" : {
     "name" : "dBfACf3ktAcJCB41",
@@ -329,7 +329,7 @@ Grailbird.data.tweets_2018_04 =
   "id" : 986185153092304896,
   "in_reply_to_status_id" : 986182142420967424,
   "created_at" : "2018-04-17 10:10:37 +0000",
-  "in_reply_to_screen_name" : "noraworld_jp",
+  "in_reply_to_screen_name" : "dBfACf3ktAcJCB4",
   "in_reply_to_user_id_str" : "744114337",
   "user" : {
     "name" : "dBfACf3ktAcJCB41",
@@ -1407,7 +1407,7 @@ Grailbird.data.tweets_2018_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u3055\u304F\u3089",
+      "name" : "\u3042\u3055\u304F\u3089\uD83C\uDF43\uD83E\uDD5C",
       "screen_name" : "asakura_dev",
       "indices" : [ 3, 15 ],
       "id_str" : "1389046746",
@@ -1434,7 +1434,7 @@ Grailbird.data.tweets_2018_04 =
     "id" : 983038011586654209,
     "created_at" : "2018-04-08 17:45:00 +0000",
     "user" : {
-      "name" : "\u3042\u3055\u304F\u3089",
+      "name" : "\u3042\u3055\u304F\u3089\uD83C\uDF43\uD83E\uDD5C",
       "screen_name" : "asakura_dev",
       "protected" : false,
       "id_str" : "1389046746",
@@ -1888,7 +1888,7 @@ Grailbird.data.tweets_2018_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u3055\u304F\u3089",
+      "name" : "\u3042\u3055\u304F\u3089\uD83C\uDF43\uD83E\uDD5C",
       "screen_name" : "asakura_dev",
       "indices" : [ 0, 12 ],
       "id_str" : "1389046746",
@@ -1921,7 +1921,7 @@ Grailbird.data.tweets_2018_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u3055\u304F\u3089",
+      "name" : "\u3042\u3055\u304F\u3089\uD83C\uDF43\uD83E\uDD5C",
       "screen_name" : "asakura_dev",
       "indices" : [ 0, 12 ],
       "id_str" : "1389046746",
@@ -1954,7 +1954,7 @@ Grailbird.data.tweets_2018_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u3055\u304F\u3089",
+      "name" : "\u3042\u3055\u304F\u3089\uD83C\uDF43\uD83E\uDD5C",
       "screen_name" : "asakura_dev",
       "indices" : [ 0, 12 ],
       "id_str" : "1389046746",
