@@ -1,1 +1,1 @@
-# OTAKU — Old Twitter Archive authored by Kosuke as a User
+# OTAKU — Old Twitter Account Archive Authored by Kosuke as a User
